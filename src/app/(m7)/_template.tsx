@@ -5,9 +5,11 @@ export default async function Template({
 }) {
   return (
     <html lang="en" >
-      <div className="animate-appear">
+      <div className="">
         {children}
       </div>
     </html>
   )
 }
+
+//      <div className="animate-appear">
