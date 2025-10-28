@@ -1,0 +1,13 @@
+Headerbar - mobile responsive 
+- menu (hamburger when collapsed)
+-- getting here
+-- tips & guides
+-- FAQ
+-- user profile
+-- login
+
+Landing/Home 
+Hero/Teaser
+- brief intro
+- cards
+

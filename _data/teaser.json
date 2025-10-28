@@ -1,0 +1,46 @@
+{
+    "teasers":[
+        {
+            "id":"1",
+            "title":"Affordable Stays",
+            "subtitle":"we hope travellers visiting Hong Kong can have extra budget to do more",
+            "image":"1.jpg",
+            "link":""
+        },
+                {
+            "id":"2",
+            "title":"Right In the Heart of the city",
+            "subtitle":"conveniently right in the center of Hong Kong, every attraction is within an hour radius",
+            "image":"2.png",
+            "link":""
+        },
+                {
+            "id":"3",
+            "title":"with bilingual staff",
+            "subtitle":"our staff speaks fluent English and Chinese nothing will be lost in translations",
+            "image":"3.jpg",
+            "link":""
+        },
+                {
+            "id":"4",
+            "title":"lots of nearby restaurants",
+            "subtitle":"Whether you want to explore asian delicacies or home sick and craving for your home town food, lots of restaurant to pick just around the corner",
+            "image":"4.jpg",
+            "link":""
+        },
+                {
+            "id":"5",
+            "title":"surrounded by shopping malls",
+            "subtitle":"Hong Kong is always known to be a shopping paradise, most brands have a retail outlet right here in Tsim Sha Tsui",
+            "image":"5.jpg",
+            "link":""
+        },
+            {
+            "id":"6",
+            "title":"and many more attractions",
+            "subtitle":"is just a 10 mintue walk away",
+            "image":"6.jpg",
+            "link":""
+        }
+    ]
+}
