@@ -26,11 +26,11 @@ export default function TeaserCard({
     link
 }: TeaserCardProps) {
     return (
-        <Card className="  flex flex-col justify-between">
-            <CardHeader>
+        <Card className="  flex flex-col justify-start pt-0 mt-0">
+            <CardHeader className="hidden">
 
             </CardHeader>
-            <CardContent>
+            <CardContent className="px-0" >
                 <Image 
                 src={image} 
                 alt={title}
@@ -40,12 +40,14 @@ export default function TeaserCard({
                 //fill
                 style={{
             objectFit: 'cover', // cover, contain, none
-            width: '100%'
+            width: '100%',
+            //borderRadius: '0.375rem, 0.375rem, 0 0' // Tailwind's rounded-md
+            borderRadius: '15px 15px 0 0'
           }}
                 //className="w-full h-48 object-cover rounded-md"
                 />
             </CardContent>
-            <CardFooter>
+            <CardFooter className="flex flex-col justify-start" >
                 <CardTitle>{title}</CardTitle>
                 <CardDescription>{subtitle}</CardDescription>
 
